@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebGoat.NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7534109c0b8ac2e172cf2b9ef9a7b3a2db89f796")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d90ec07913ace633d7706e0d53adf1844ea27fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebGoat.NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebGoat.NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
