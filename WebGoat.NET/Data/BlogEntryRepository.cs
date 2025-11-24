@@ -15,7 +15,7 @@ namespace WebGoatCore.Data
             _context = context;
         }
 
-        public BlogEntry CreateBlogEntry(string title, string contents, string username)
+        public BlogEntry CreateBlogEntry(string title, Contents contents, string username)
         {
             var entry = new BlogEntry
             {
