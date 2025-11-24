@@ -30,7 +30,7 @@ namespace WebGoatCore.Controllers
         }
 
         [HttpPost("{entryId}")]
-        public IActionResult Reply(int entryId, string contents)
+        public IActionResult Reply(int entryId, Contents contents)
         {
             var userName = User?.Identity?.Name ?? "Anonymous";
             var response = new BlogResponse()
